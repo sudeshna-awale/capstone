@@ -1,0 +1,21 @@
+@import "../../../Css/base";
+@import "../../../Css/mixins";
+@import "../../../Css/aem_grid";
+
+.page__not_found {
+    position: relative;
+    margin: 25px;
+    width: auto;
+    height: 300px;
+    text-align: center;
+    .not__found_title {
+        padding: 5rem 0rem 2rem;
+        font-size: 36px;
+    }
+    .not__found_goback {
+        font-size: 20px;
+        background: var(--primary-brand);
+        padding: 1rem;
+        color: var(--white);
+    }
+}

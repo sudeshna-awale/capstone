@@ -1,0 +1,21 @@
+@import "../../../Css/base";
+@import "../../../Css/mixins";
+@import "../../../Css/aem_grid";
+
+.empty__cart_wrapper {
+    position: relative;
+    margin: 25px;
+    width: auto;
+    height: 300px;
+    text-align: center;
+    .empty__cart_title {
+        padding: 5rem 0rem 2rem;
+        font-size: 36px;
+    }
+    .empty__cart_go-back {
+        font-size: 20px;
+        background: var(--primary-brand);
+        padding: 1rem;
+        color: var(--white);
+    }
+}
