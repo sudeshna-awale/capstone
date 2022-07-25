@@ -8,13 +8,12 @@
 * **password** : Test@12345
 
 # Lighthouse Report for Desktop
-
-![lighthousereport](https://user-images.githubusercontent.com/105719897/180724906-41bf0688-9bcc-46f4-a9cf-af62f09e3e6f.png)
+![lighthousereport](https://user-images.githubusercontent.com/105719897/180747656-2e4324d0-1316-47dc-a186-350e626808bd.png)
 &nbsp;
 &nbsp;
 
 # Lighthouse Report for Mobile
-![lighthousereport_mob](https://user-images.githubusercontent.com/105719897/180744279-aa42644c-90c6-432b-80ba-6a89fbe38e74.png)
+![lighthousereport_mob](https://user-images.githubusercontent.com/105719897/180747765-eb92b339-2f51-47e5-9bed-b2fb01ebc211.png)
 &nbsp;
 &nbsp;
 
