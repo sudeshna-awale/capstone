@@ -10,7 +10,7 @@
 # Lighthouse Report for Desktop
 
 ![lighthousereport](https://user-images.githubusercontent.com/105719897/180724906-41bf0688-9bcc-46f4-a9cf-af62f09e3e6f.png)
-
+&nbsp;
 
 # Lighthouse Report for Mobile
 
