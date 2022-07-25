@@ -18,7 +18,7 @@ const ProductSummary = () => {
             <strong>Pricing Summary</strong>
             <ul className="product__summary_content">
               <li>Subtotal</li>
-              <li>${totalSum}</li>
+              <li>${Math.round(totalSum)}</li>
             </ul>
             <ul className="product__summary_content">
               <li>Coupon</li>
@@ -38,7 +38,7 @@ const ProductSummary = () => {
             </ul>
             <ul className="product__summary_content" >
               <li style={{fontWeight:'bold'}}>Estimated Total</li>
-              <li style={{fontWeight:'bold'}}>${totalSum+100+28}</li>
+              <li style={{fontWeight:'bold'}}>${Math.round(totalSum)+100+28}</li>
             </ul>
           </div>
     </>
