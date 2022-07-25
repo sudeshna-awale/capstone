@@ -13,7 +13,7 @@
 &nbsp;
 
 # Lighthouse Report for Mobile
-![lighthousereport_mob](https://user-images.githubusercontent.com/105719897/180747765-eb92b339-2f51-47e5-9bed-b2fb01ebc211.png)
+![lighthousereport_mob](https://user-images.githubusercontent.com/105719897/180748103-ec0b9cd4-b79a-4307-97a5-262017447bbe.png)
 &nbsp;
 &nbsp;
 
