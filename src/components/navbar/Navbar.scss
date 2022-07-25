@@ -66,12 +66,16 @@
     .navbar__nav-cart {
       margin-right: var(--unnamed-size-10);
       .cart__count {
-        position: relative;
-        right: var(--unnamed-size-6);
-        bottom: var(--unnamed-size-16);
-        font-size: 16px;
-        background-color: var(--primary-brand);
+        background: var(--primary-m1);
+        border-radius: 50%;
+        bottom: 15px;
         color: var(--white);
+        display: inline-grid;
+        padding: var(--unnamed-size-2);
+        position: relative;
+        right: var(--unnamed-size-10);
+        text-align: center;
+        width: var(--unnamed-size-20);
       }
     }
   }
