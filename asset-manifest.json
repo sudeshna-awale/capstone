@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.f55c3281.css",
+    "main.js": "/capstone/static/js/main.69357421.js",
+    "static/js/787.20818d20.chunk.js": "/capstone/static/js/787.20818d20.chunk.js",
+    "static/media/men_shopping_image.png": "/capstone/static/media/men_shopping_image.ff8db7a3f4f04828f3d9.png",
+    "static/media/women_shopping_image.png": "/capstone/static/media/women_shopping_image.e0998d1b5a2449d2d4a4.png",
+    "static/media/men_image_mobile.png": "/capstone/static/media/men_image_mobile.17a5056bbf62a311c1f5.png",
+    "static/media/women_image_mobile.png": "/capstone/static/media/women_image_mobile.5679e5b092fbad011f68.png",
+    "static/media/secondary-banner2.jpg": "/capstone/static/media/secondary-banner2.dae2f4fd08e91e201f6f.jpg",
+    "static/media/man-shopping.jpg": "/capstone/static/media/man-shopping.d11dad1b36a161ba44bd.jpg",
+    "static/media/sliders.svg": "/capstone/static/media/sliders.7b60b4ad4c15d5e5a5bf302a926c4033.svg",
+    "static/media/venia-logo.svg": "/capstone/static/media/venia-logo.73325bc7ed5fe11d2fab95e714531cd7.svg",
+    "static/media/trash-2.svg": "/capstone/static/media/trash-2.0c70a232ad3fc82eaa9d492c36e9ac45.svg",
+    "static/media/align-justify.svg": "/capstone/static/media/align-justify.3fa1206a2b5bd7b38d525b3eb651d4fa.svg",
+    "static/media/instagram.svg": "/capstone/static/media/instagram.7ae8b92388135856dbc51ce4a491c083.svg",
+    "index.html": "/capstone/index.html",
+    "static/media/map-pin.svg": "/capstone/static/media/map-pin.77b0513728c960176832cd99995f8d20.svg",
+    "static/media/x.svg": "/capstone/static/media/x.6e9d7c8bf1a366c15b81f2391ce3faa3.svg",
+    "static/media/arrow-down.svg": "/capstone/static/media/arrow-down.6bad5f57754a58f50293716136e04057.svg",
+    "static/media/arrow-up.svg": "/capstone/static/media/arrow-up.2902295db7a9290cbc19283068f8f6ee.svg",
+    "static/media/twitter.svg": "/capstone/static/media/twitter.ea0868d8aedbb104e6c1332846a10c06.svg",
+    "static/media/star.svg": "/capstone/static/media/star.1cd2a2b599e18e1a4b60cf57815d78ee.svg",
+    "static/media/edit-2.svg": "/capstone/static/media/edit-2.7d4e21f38e2067ae1a4002c2b4f0c51f.svg",
+    "static/media/facebook.svg": "/capstone/static/media/facebook.1d020e027c20a955b3bd6208f2653e5b.svg",
+    "static/media/chevron-right.svg": "/capstone/static/media/chevron-right.438181ed249f0edfc1a761f37e88892a.svg",
+    "static/media/chevron-down.svg": "/capstone/static/media/chevron-down.8fb8822dcc5282a48dde61795f1e5ec4.svg",
+    "static/media/chevron-left.svg": "/capstone/static/media/chevron-left.a9d8e36c32b264063b473a2fffc69d1a.svg",
+    "main.f55c3281.css.map": "/capstone/static/css/main.f55c3281.css.map",
+    "main.69357421.js.map": "/capstone/static/js/main.69357421.js.map",
+    "787.20818d20.chunk.js.map": "/capstone/static/js/787.20818d20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f55c3281.css",
+    "static/js/main.69357421.js"
+  ]
+}
