@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/capstone/static/css/main.b5bf21e6.css",
+    "main.css": "/capstone/static/css/main.a0fe10e6.css",
     "main.js": "/capstone/static/js/main.e53a9a8f.js",
     "static/media/men_shopping_image.png": "/capstone/static/media/men_shopping_image.ff8db7a3f4f04828f3d9.png",
     "static/media/women_shopping_image.png": "/capstone/static/media/women_shopping_image.e0998d1b5a2449d2d4a4.png",
@@ -25,11 +25,11 @@
     "static/media/chevron-right.svg": "/capstone/static/media/chevron-right.438181ed249f0edfc1a761f37e88892a.svg",
     "static/media/chevron-down.svg": "/capstone/static/media/chevron-down.8fb8822dcc5282a48dde61795f1e5ec4.svg",
     "static/media/chevron-left.svg": "/capstone/static/media/chevron-left.a9d8e36c32b264063b473a2fffc69d1a.svg",
-    "main.b5bf21e6.css.map": "/capstone/static/css/main.b5bf21e6.css.map",
+    "main.a0fe10e6.css.map": "/capstone/static/css/main.a0fe10e6.css.map",
     "main.e53a9a8f.js.map": "/capstone/static/js/main.e53a9a8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5bf21e6.css",
+    "static/css/main.a0fe10e6.css",
     "static/js/main.e53a9a8f.js"
   ]
 }
