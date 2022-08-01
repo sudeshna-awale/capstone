@@ -60,9 +60,7 @@ const ProductCategory = () => {
           />
           <div className="product__category_content">
             <h5 className="product__category_title">Show Women</h5>
-            <p className="product__category_price">
-              {productArray?.women?.title}
-            </p>
+            <p className="product__category_price"> Lorem ipsum dolor</p>
           </div>
         </article>
         <article onClick={()=>navigate('/product/men')} className="product__category_card">
@@ -73,7 +71,7 @@ const ProductCategory = () => {
           />
           <div className="product__category_content">
             <h5 className="product__category_title">Show Men</h5>
-            <p className="product__category_price">{productArray?.men?.title}</p>
+            <p className="product__category_price"> Lorem ipsum dolor</p>
           </div>
         </article>
         <article onClick={()=>navigate('/product/jewelery')} className="product__category_card">
@@ -84,9 +82,7 @@ const ProductCategory = () => {
           />
           <div className="product__category_content">
             <h5 className="product__category_title">Show Jewelery</h5>
-            <p className="product__category_price">
-              {productArray?.jewelery?.title}
-            </p>
+            <p className="product__category_price"> Lorem ipsum dolor</p>
           </div>
         </article>
         <article onClick={()=>navigate('/product/electronics')} className="product__category_card">
@@ -97,9 +93,7 @@ const ProductCategory = () => {
           />
           <div className="product__category_content">
             <h5 className="product__category_title">Show Electronics</h5>
-            <p className="product__category_price">
-              {productArray?.electronics?.title}
-            </p>
+            <p className="product__category_price"> Lorem ipsum dolor</p>
           </div>
         </article>
       </section>

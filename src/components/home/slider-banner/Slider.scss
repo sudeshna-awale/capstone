@@ -6,12 +6,14 @@
 .carousel__container {
     *color: var(--unnamed-color-172026);
     position: absolute;
-    top: 35%;
-    left: 0;
+    top: 89%;
+    left: 10%;
     text-align: center;
-    width: 100%;
-    padding: 2rem 1.5rem 4.5rem;
-    z-index: 99;
+    width: 82%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    z-index: 9;
     margin: auto;
 
     .carousel__title {
@@ -40,9 +42,7 @@
 .carousel__wrapper {
     height: 400px;
     position: relative;
-    height: 400px;
     width: 100%;
-    display: block;
 }
 
 .carousel__item {
@@ -131,19 +131,15 @@
     }
 
     .carousel__container {
-        top: 25%;
+        top: 60px;
         left: 9%;
         text-align: left;
-        width: 40%;
+        width: 44%;
         z-index: 99;
         margin: auto;
-        padding: 0;
+        padding: 13rem 2rem;
     }
-}
-
-@media screen and (max-width: 420px) {
-    .carousel__container {  
-        top: 32%;      
-        padding: 1rem 1.5rem 2rem;
+    .carousel__wrapper {
+        height: 600px;
     }
 }

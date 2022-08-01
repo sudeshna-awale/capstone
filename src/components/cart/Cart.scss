@@ -31,8 +31,10 @@
 
             .cart__img {
                 width: 120px;
-                height: 120px;
+                height: 140px;
                 padding: var(--unnamed-size-16);
+                object-fit: contain;
+                object-position: 50% 50%;
             }
 
             .content-wrapper {

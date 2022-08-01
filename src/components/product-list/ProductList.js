@@ -180,23 +180,23 @@ const ProductList = () => {
               <header><h3 className="filter__item_title" id="all-products-list">Categories</h3></header>
               <ul className="filter__list">
                 <li className="filter__list_item">
-                  <input  value="All" type="checkbox" id={1} checked={checkedId === "All"} name="checkbox" onChange={checkProduct} />
+                  <input  value="All" type="checkbox" id={1}  name="checkbox" onChange={checkProduct} />
                   <label htmlFor="1" >All</label>
                 </li>
                 <li className="filter__list_item">
-                  <input value="jewelery" type="checkbox" id={2} checked={checkedId === "jewelery"} name="checkbox" onChange={checkProduct}/>
+                  <input value="jewelery" type="checkbox" id={2}  name="checkbox" onChange={checkProduct}/>
                   <label htmlFor="2">Jewellery</label>
                 </li>
                 <li className="filter__list_item">
-                  <input value="electronics" type="checkbox" id={3} checked={checkedId === "electronics"} name="checkbox" onChange={checkProduct} />
+                  <input value="electronics" type="checkbox" id={3}  name="checkbox" onChange={checkProduct} />
                   <label htmlFor="3">Electronics</label>
                 </li>
                 <li className="filter__list_item">
-                  <input type="checkbox" name="checkbox" value="men's clothing" id={4} checked={checkedId === "men's clothing"} onChange={checkProduct} />
+                  <input type="checkbox" name="checkbox" value="men's clothing" id={4}  onChange={checkProduct} />
                   <label htmlFor="4">Men's Clothing</label>
                 </li>
                 <li className="filter__list_item">
-                  <input type="checkbox" name="checkbox" value="women's clothing" id={5} checked={checkedId === "women's clothing"} onChange={checkProduct} />
+                  <input type="checkbox" name="checkbox" value="women's clothing" id={5}  onChange={checkProduct} />
                   <label htmlFor="5">Women's Clothing</label>
                 </li>
               </ul>
